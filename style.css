@@ -1,0 +1,61 @@
+body{
+	font-family: Arial;
+}
+.logo{
+	display: block;
+	margin: auto;
+	margin-top: 170px;
+	width: 270px;
+	background-color: #fff;
+}
+.searchbox{
+	display: block;
+	margin: auto;
+	width: 570px;
+	height: 27px;
+	margin-top: 25px
+}
+.searchbox:hover {
+	border: 1px solid #999;
+}
+form{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+button{
+	margin-top: 10px;
+}
+li{
+	display: inline;
+	margin: 10px;
+}
+#nav{
+	text-align: right;
+	vertical-align: top;
+	font-size: small;
+}
+.butn{
+	font-weight: bold;
+	background: #4387fd;
+	color: #FFF;
+	padding: 10px;	border-radius: 3px;
+}
+#footer{
+	background-color: #f2f2f2;
+	line-height: 15px;
+	border-top: 1px solid #e4e4e4;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	font-size: small;
+	padding: 0px;
+	color: #777;
+}
+#left{
+	float: left;
+}
+#right{
+	float: right;
+	margin-right: 35px;
+}
